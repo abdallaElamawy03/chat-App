@@ -1,4 +1,4 @@
-const socket = io('ws://localhost:3500')
+const socket = io('https://tangerine-seahorse-77989b.netlify.app/')
 
 const msgInput = document.querySelector('#message')
 const nameInput = document.querySelector('#name')
