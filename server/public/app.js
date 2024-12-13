@@ -1,4 +1,5 @@
-const socket = io('https://tangerine-seahorse-77989b.netlify.app/')
+const socket = io('https://chatapp-emawy.netlify.app
+')
 
 const msgInput = document.querySelector('#message')
 const nameInput = document.querySelector('#name')
